@@ -1,6 +1,6 @@
 # Personal Version
 
-This is a custom version of the original repository by (LearnWebCode)[https://github.com/LearnWebCode/youtube-super-simple-webpack].
+This is a custom version of the original repository by  [LearnWebCode](https://github.com/LearnWebCode/youtube-super-simple-webpack).
 
 # YouTube Super Simple webpack Example
 
