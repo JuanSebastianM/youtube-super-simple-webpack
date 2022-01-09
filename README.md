@@ -1,3 +1,7 @@
+# Personal Version
+
+This is a custom version of the original repository by (LearnWebCode)[https://github.com/LearnWebCode/youtube-super-simple-webpack].
+
 # YouTube Super Simple webpack Example
 
 After cloning / downloading / forking this repoistory you just need to have a command-line pointing inside this overall directory and use the `npm install` command. This assumes you already have Node.js installed on your computer.
